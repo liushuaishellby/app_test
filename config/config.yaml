@@ -1,0 +1,21 @@
+# log日志配置信息
+log:
+  name: None
+  logger_level: DEBUG
+  stream_level: INFO
+  file_level: INFO
+  fmt_m: '%(asctime)s -【%(filename)s[line:%(lineno)d]】 %(levelname)s %(message)s'
+  file: logs.txt
+
+# 用例表格配置信息
+excel:
+  file: cases.xlsx
+
+
+
+# 数据库链接信息
+mysql:
+  user: root
+  pwd: 123456
+  host: localhost
+  port: 3306
