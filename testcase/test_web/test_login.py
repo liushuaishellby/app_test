@@ -18,5 +18,4 @@ class TestLogin:
         log.info("测试通过")
 
 
-if __name__ == '__main__':
-    pytest.main()
+

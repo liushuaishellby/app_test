@@ -28,10 +28,10 @@ class TestRegister():
             assert (res['type'], case_info['type'])
             assert (res['data']['username'], data['username'])
             logger.info('测试用例通过')
+            print(res)
         except AssertionError as e:
             logger.error('测试用例失败{}'.format(e))
             raise e
 
 
-if __name__ == '__main__':
-    pytest.main()
+

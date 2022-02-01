@@ -128,3 +128,17 @@
 2022-02-01 19:07:58,787 -【test_app_login.py[line:23]】 INFO 测试用例通过
 2022-02-01 19:07:58,792 -【test_app_login.py[line:23]】 INFO 测试用例通过
 2022-02-01 19:07:58,796 -【test_app_login.py[line:23]】 INFO 测试用例通过
+2022-02-01 20:27:23,147 -【test_login.py[line:18]】 INFO 测试通过
+2022-02-01 20:27:23,149 -【test_login.py[line:18]】 INFO 测试通过
+2022-02-01 20:27:33,658 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:27:33,724 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:27:33,804 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:27:33,877 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:27:33,951 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:27:34,024 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:28:07,099 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:28:07,173 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:28:07,245 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:28:07,330 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:28:07,394 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-01 20:28:07,456 -【test_register.py[line:30]】 INFO 测试用例通过
