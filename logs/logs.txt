@@ -123,3 +123,8 @@
 2022-01-31 11:56:47,848 -【test_app_login.py[line:23]】 INFO 测试用例通过
 2022-01-31 11:56:47,854 -【test_app_login.py[line:23]】 INFO 测试用例通过
 2022-01-31 11:56:47,857 -【test_app_login.py[line:23]】 INFO 测试用例通过
+2022-02-01 19:07:58,776 -【test_app_login.py[line:23]】 INFO 测试用例通过
+2022-02-01 19:07:58,782 -【test_app_login.py[line:23]】 INFO 测试用例通过
+2022-02-01 19:07:58,787 -【test_app_login.py[line:23]】 INFO 测试用例通过
+2022-02-01 19:07:58,792 -【test_app_login.py[line:23]】 INFO 测试用例通过
+2022-02-01 19:07:58,796 -【test_app_login.py[line:23]】 INFO 测试用例通过
