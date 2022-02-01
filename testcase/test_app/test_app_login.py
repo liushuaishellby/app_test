@@ -8,6 +8,7 @@ Handler = handler.Handler()
 cases = Handler.excel.read_data('app_login')
 logger = Handler.logger
 
+
 class TestAppLogin(object):
 
     @pytest.mark.app_login
@@ -33,5 +34,3 @@ class TestAppLogin(object):
     #     print(headers)
     #     rsq = vi(url=cases_info['url'], method=cases_info['method'], data=data, headers=headers)
     #     print(rsq)
-
-
