@@ -1,5 +1,6 @@
 import json
 
+import allure
 import pytest
 from midleware import handler
 from common.requests_ import vi
@@ -10,7 +11,7 @@ logger = Handler.logger
 
 
 class TestAppLogin(object):
-
+    @allure.feature("登录")
     @pytest.mark.app_login
     @pytest.mark.parametrize("cases", cases)
     def test_app_login(self, cases):

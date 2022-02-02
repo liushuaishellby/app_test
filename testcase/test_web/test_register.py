@@ -8,7 +8,7 @@ cases = Handler.excel.read_data('url')
 logger = Handler.logger
 
 
-class TestRegister():
+class TestRegister(object):
 
     @pytest.mark.parametrize("case_info", cases)
     def test_register(self, case_info):
@@ -32,6 +32,3 @@ class TestRegister():
         except AssertionError as e:
             logger.error('测试用例失败{}'.format(e))
             raise e
-
-
-

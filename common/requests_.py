@@ -1,4 +1,3 @@
-from _ast import Expression
 import requests
 import logging
 

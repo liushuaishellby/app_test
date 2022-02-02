@@ -1,0 +1,1 @@
+{'type': 'success', 'data': {'uid': '99347275', 'username': 'yb726370277'}}
