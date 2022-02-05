@@ -1,9 +1,6 @@
 import openpyxl
 
 
-# from common.log_handler import Logger_Handler
-
-
 # 封装读取表格数据的类
 class ExcelHandler:
     def __init__(self, file_path):
