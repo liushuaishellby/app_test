@@ -174,3 +174,41 @@
 2022-02-02 19:07:59,027 -【test_register.py[line:30]】 INFO 测试用例通过
 2022-02-02 19:07:59,099 -【test_register.py[line:30]】 INFO 测试用例通过
 2022-02-02 19:07:59,169 -【test_register.py[line:30]】 INFO 测试用例通过
+2022-02-05 16:19:35,625 -【test_login.py[line:18]】 INFO 测试通过
+2022-02-05 16:19:35,627 -【test_login.py[line:18]】 INFO 测试通过
+2022-02-05 16:19:35,756 -【test_register.py[line:32]】 INFO 测试用例通过
+2022-02-05 16:19:35,827 -【test_register.py[line:32]】 INFO 测试用例通过
+2022-02-05 16:19:35,885 -【test_register.py[line:32]】 INFO 测试用例通过
+2022-02-05 16:19:35,958 -【test_register.py[line:32]】 INFO 测试用例通过
+2022-02-05 16:19:36,016 -【test_register.py[line:32]】 INFO 测试用例通过
+2022-02-05 16:19:36,097 -【test_register.py[line:32]】 INFO 测试用例通过
+2022-02-05 16:25:00,889 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:28:40,473 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:29:06,372 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:29:43,867 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:30:40,509 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:30:40,547 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:30:40,590 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:30:40,619 -【test_app_login.py[line:27]】 ERROR 测试失败assert '405' == '444'
+  - 444
+  + 405
+2022-02-05 16:30:40,753 -【test_app_login.py[line:27]】 ERROR 测试失败assert '405' == '444'
+  - 444
+  + 405
+2022-02-05 16:30:40,785 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:33:22,207 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:33:22,238 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:33:22,279 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:33:22,314 -【test_app_login.py[line:27]】 ERROR 测试失败assert '405' == '444'
+  - 444
+  + 405
+2022-02-05 16:33:22,471 -【test_app_login.py[line:27]】 ERROR 测试失败assert '405' == '444'
+  - 444
+  + 405
+2022-02-05 16:33:22,502 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:35:31,716 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:35:31,747 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:35:31,777 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:35:31,806 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:35:31,834 -【test_app_login.py[line:25]】 INFO 测试用例通过
+2022-02-05 16:35:31,869 -【test_app_login.py[line:25]】 INFO 测试用例通过

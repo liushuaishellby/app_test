@@ -17,5 +17,5 @@ excel:
 mysql:
   user: root
   pwd: 123456
-  host: localhost
+  host: 124.222.112.42
   port: 3306

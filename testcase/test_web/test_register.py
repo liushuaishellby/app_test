@@ -1,3 +1,5 @@
+import allure
+
 from common.requests_ import vi
 import pytest
 from midleware.handler import Handler
